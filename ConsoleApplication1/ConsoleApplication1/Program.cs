@@ -12,8 +12,8 @@ namespace ConsoleApplication1
         {
             //Here's a comment
             //Here's another comment
-            //Yet another comment, but below this one there's code.
             Console.WriteLine("Hello world.");
+            Console.WriteLine("This is the first time this code has seen the Internet.");
             Console.ReadKey();
         }
     }
