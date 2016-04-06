@@ -4,3 +4,5 @@ C:\Users\djhiggs\Desktop\tempProject\ConsoleApplication1\ConsoleApplication1\bin
 C:\Users\djhiggs\Desktop\tempProject\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 C:\Users\djhiggs\Desktop\tempProject\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\djhiggs\Desktop\tempProject\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\djhiggs\Desktop\tempProject\ConsoleApplication1\ConsoleApplication1\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\djhiggs\Desktop\tempProject\ConsoleApplication1\ConsoleApplication1\bin\Debug\WindowsFormsApplication3.pdb
